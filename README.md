@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hello! 👋
 
-<!--
-**yanntavares/yanntavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I'm currently studying Bachelor's Computing Science
+- 💻 Back-end developer
 
-Here are some ideas to get you started:
+## Languages
+<div style="display: inline_block">
+    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+<div style="display: inline_block">
+    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</div>
+
+## Contact
+<div>
+  
+</div>
+
+![Snake animation](https://github.com/yanntavares/yanntavares/blob/output/github-contribution-grid-snake.svg)
+
+
+

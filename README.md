@@ -20,13 +20,3 @@
     <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
-
-## Contact
-<div>
-  
-</div>
-
-![Snake animation](https://github.com/yanntavares/yanntavares/blob/output/github-contribution-grid-snake.svg)
-
-
-

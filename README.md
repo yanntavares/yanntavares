@@ -1,7 +1,8 @@
 ### Hello! 👋
 
 - 📚 I'm currently studying Bachelor's Computing Science
-- 💻 Back-end developer
+- 🎯 I'm currently on Seed a Bit as a Project Analyst
+- 💻 Front-end developer
 
 ## Languages and Technologies
 <div style="display: inline_block">

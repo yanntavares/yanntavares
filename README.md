@@ -4,18 +4,26 @@
 - 🎯 I'm currently on Seed a Bit as a Project Analyst
 - 💻 Front-end developer
 
-## Languages and Technologies
+## Languages
 <div style="display: inline_block">
     <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-    <!-- <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> -->
-    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+    <img align="center" alt="Java" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img align="center" alt="HTML" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+    <img align="center" alt="CSS" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+    <img align="center" alt="JavaScript" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> 
+    <img align="center" alt="TypeScript" height= 40 width= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
 </div>
 
-## Tools
+## Frameworks and Tools
+<div style="display: inline_block">
+    <img align="center" alt="Maven" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+    <img align="center" alt="Spring" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <img align="center" alt="TailWindCSS" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img align="center" alt="NestJS" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+    <img align="center" alt="React" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</div>
+
+## Ecosystem
 <div style="display: inline_block">
     <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
     <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />

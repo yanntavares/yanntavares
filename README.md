@@ -1,53 +1,54 @@
-### Hello! 👋
+<div align="center">
 
-- 📚 I'm currently studying Bachelor's Computing Science
-- 🎯 I'm currently on Seed a Bit as a Project Analyst
-- 💻 Front-end developer
+# Hey, I'm Yann Tavares! 👋
 
-## Languages
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-tavares/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanntavares123@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU-PORTFOLIO.com) -->
+
+</div>
+
+---
+
+### About me 🙋‍♂️
+
+- 🎓 Bachelor's student in **Computer Science**
+- 💼 **Project Analyst** at [Seed a Bit](https://seedabit.org.br)
+- 💻 Passionate about **Front-end Development**
+- 🌱 Currently deepening my skills in **React / Next.js**
+- 🚀 Always looking for new challenges and opportunities to grow
+
+---
+
+## 🛠️ Tech Stack
 
 ### Front-end
-<div style="display: inline_block">
-    <img align="center" alt="HTML" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-    <img align="center" alt="CSS" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-    <img align="center" alt="JavaScript" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> 
-    <img align="center" alt="TypeScript" height= 40 width= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
-</div>
+[![Front-End](https://skillicons.dev/icons?i=html,css,javascript,typescript&theme=dark)](https://skillicons.dev)
 
 ### Back-end
-<div style="display: inline_block">
-    <img align="center" alt="C" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img align="center" alt="Java" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img align="center" alt="Python" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>  
+[![Back-End](https://skillicons.dev/icons?i=java,python,c&theme=dark)](https://skillicons.dev)
 
-</br>
+### Frameworks & Tools
+[![Tools](https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,maven&theme=dark)](https://skillicons.dev)
 
-## Frameworks and Tools
-<div style="display: inline_block">
-    <img align="center" alt="Maven" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-    <img align="center" alt="Spring" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-    <img align="center" alt="TailWindCSS" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img align="center" alt="NextJS" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-    <img align="center" alt="React" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    
+### Ecosystem
+[![Ecosystem](https://skillicons.dev/icons?i=github,figma,notion,docker&theme=dark)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=yanntavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanntavares&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
 
-</br>
+---
 
-## Ecosystem
-<div style="display: inline_block">
-    <img align="center" alt="Git" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img align="center" alt="Notion" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-    <img align="center" alt="Figma" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-    <img align="center" alt="Docker" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-</div>
+## 🐍 Contribution Graph
 
-</br>
-
-## Stats
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanntavares/yanntavares/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanntavares/yanntavares/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanntavares/yanntavares/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/yanntavares/yanntavares/output/github-contribution-grid-snake-dark.svg">
 </picture>

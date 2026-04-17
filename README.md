@@ -26,7 +26,7 @@
 [![Front-End](https://skillicons.dev/icons?i=html,css,javascript,typescript&theme=dark)](https://skillicons.dev)
 
 ### Back-end
-[![Back-End](https://skillicons.dev/icons?i=java,python,c&theme=dark)](https://skillicons.dev)
+[![Back-End](https://skillicons.dev/icons?i=java,python,supabase,c&theme=dark)](https://skillicons.dev)
 
 ### Frameworks & Tools
 [![Tools](https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,maven&theme=dark)](https://skillicons.dev)

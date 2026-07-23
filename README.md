@@ -35,6 +35,7 @@
 [![Ecosystem](https://skillicons.dev/icons?i=github,figma,notion,docker&theme=dark)](https://skillicons.dev)
 
 ---
+<!--
 
 ## 📊 GitHub Stats
 
@@ -43,7 +44,8 @@
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanntavares&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
 
----
+--- 
+-->
 
 ## 🐍 Contribution Graph
 

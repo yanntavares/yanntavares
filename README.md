@@ -15,7 +15,6 @@
 - 🎓 Bachelor's student in **Computer Science**
 - 💼 **Project Analyst** at [Seed a Bit](https://seedabit.org.br)
 - 💻 **Full-Stack Developer**
-- 🌱 Currently deepening my skills in **React / Next.js**
 - 🚀 Always looking for new challenges and opportunities to grow
 
 ---

@@ -14,7 +14,7 @@
 
 - 🎓 Bachelor's student in **Computer Science**
 - 💼 **Project Analyst** at [Seed a Bit](https://seedabit.org.br)
-- 💻 Passionate about **Front-end Development**
+- 💻 **Full-Stack Developer**
 - 🌱 Currently deepening my skills in **React / Next.js**
 - 🚀 Always looking for new challenges and opportunities to grow
 
@@ -26,10 +26,10 @@
 [![Front-End](https://skillicons.dev/icons?i=html,css,javascript,typescript&theme=dark)](https://skillicons.dev)
 
 ### Back-end
-[![Back-End](https://skillicons.dev/icons?i=java,python,supabase,c&theme=dark)](https://skillicons.dev)
+[![Back-End](https://skillicons.dev/icons?i=java,postgresql,typescript,c&theme=dark)](https://skillicons.dev)
 
 ### Frameworks & Tools
-[![Tools](https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,maven&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=spring,nextjs,nestjs,prisma,react,tailwind&theme=dark)](https://skillicons.dev)
 
 ### Ecosystem
 [![Ecosystem](https://skillicons.dev/icons?i=github,figma,notion,docker&theme=dark)](https://skillicons.dev)

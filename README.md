@@ -2,54 +2,108 @@
 
 # Hey, I'm Yann Tavares! 👋
 
+**Full-Stack Developer & Tech Lead**
+
+Computer Science @ UFRPE
+
+Software Engineering · DevOps · Automation · AI-Assisted Development
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-tavares/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanntavares123@gmail.com)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU-PORTFOLIO.com) -->
 
 </div>
 
 ---
 
-### About me 🙋‍♂️
+## 🙋 About me
 
-- 🎓 Bachelor's student in **Computer Science**
-- 💼 **Project Analyst** at [Seed a Bit](https://seedabit.org.br)
-- 💻 **Full-Stack Developer**
-- 🚀 Always looking for new challenges and opportunities to grow
+I'm a Computer Science undergraduate at UFRPE and a Full-Stack Developer & Tech Lead at [Seed a Bit](https://seedabit.org.br), a student-run technology company.
 
----
+I work on production applications, software architecture, API integrations and workflow automation. My approach combines engineering fundamentals, technical planning, AI-assisted development, code review and automated testing.
 
-## 🛠️ Tech Stack
+I'm currently open to software engineering internship opportunities, particularly in full-stack development, back-end engineering, DevOps and automation.
+
+## 💼 Professional experience
+
+**Full-Stack Developer & Tech Lead — Seed a Bit** | December 2025 – present (company tenure)
+
+- Guide a four-person development team, supporting sprint planning, technical decisions, pull request reviews and delivery validation.
+- Contribute to the development and maintenance of production web applications, including a digital health platform with AI integrations.
+- Develop n8n workflows connecting business processes, APIs and productivity tools.
+- Work with automated checks, CI/CD, containerization and cloud services.
+
+## 🛠️ Tech stack
+
+### Languages
+[![Languages: TypeScript, JavaScript, Python, Java, C](https://skillicons.dev/icons?i=ts,js,py,java,c&theme=dark)](https://skillicons.dev)
 
 ### Front-end
-[![Front-End](https://skillicons.dev/icons?i=html,css,javascript,typescript&theme=dark)](https://skillicons.dev)
+[![Front-end: React, Next.js, HTML, CSS, Tailwind CSS](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark)](https://skillicons.dev)
 
-### Back-end
-[![Back-End](https://skillicons.dev/icons?i=java,postgresql,typescript,c&theme=dark)](https://skillicons.dev)
+shadcn/ui · Responsive interfaces · REST API integration
 
-### Frameworks & Tools
-[![Tools](https://skillicons.dev/icons?i=spring,nextjs,nestjs,prisma,react,tailwind&theme=dark)](https://skillicons.dev)
+### Back-end & data
+[![Back-end: Node.js, NestJS, Prisma, PostgreSQL, Firebase](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,firebase&theme=dark)](https://skillicons.dev)
 
-### Ecosystem
-[![Ecosystem](https://skillicons.dev/icons?i=github,figma,notion,docker&theme=dark)](https://skillicons.dev)
+REST APIs · SQL · Firestore · Swagger/OpenAPI
 
----
-<!--
+### DevOps & cloud
+[![DevOps: Git, GitHub, GitHub Actions, Docker, Linux, Google Cloud](https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,gcp&theme=dark)](https://skillicons.dev)
 
-## 📊 GitHub Stats
+CI/CD · WSL · Firebase Hosting and Cloud Functions
 
-<div align="center">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=yanntavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanntavares&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-</div>
+### Automation, AI & quality
 
---- 
--->
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-E2E_Testing-2EAD33?style=flat-square)
+![Unit testing](https://img.shields.io/badge/Unit_Testing-334155?style=flat-square)
 
-## 🐍 Contribution Graph
+Workflow automation · Context engineering · Vertex AI integrations · Code review · Linting
+
+### Design & collaboration
+[![Design tools: Figma and Notion](https://skillicons.dev/icons?i=figma,notion&theme=dark)](https://skillicons.dev)
+
+## 🚀 Featured projects
+
+| Project | Highlights | Stack |
+| --- | --- | --- |
+| [EventPass API](https://github.com/yanntavares/EventPass-API) | Event scheduling, modular REST API, business rule validation and OpenAPI documentation. | NestJS, TypeScript, Prisma, PostgreSQL |
+| [Room Booking — Back-end](https://github.com/yanntavares/desafio_techlead_back) | Reservation management, JWT authentication, role-based access and Docker. | NestJS, Prisma, PostgreSQL |
+| [Room Booking — Front-end](https://github.com/yanntavares/desafio_techlead_front) | Responsive reservation interface, authentication, admin dashboards and API integration. | Next.js, React, TypeScript, Tailwind CSS |
+
+## ⚙️ Engineering workflow
+
+My AI-assisted development workflow is designed to accelerate implementation without giving up technical ownership.
+
+1. **Context engineering** — define the stack, architecture and project conventions in `CLAUDE.md`.
+2. **Technical planning** — clarify requirements, scope and validation criteria; select relevant agent skills.
+3. **Implementation** — guide Claude Code toward simple, maintainable solutions.
+4. **Code review** — inspect changes for correctness, architecture and unnecessary complexity.
+5. **Automated testing** — validate front-end behavior with Playwright and back-end logic with unit tests.
+6. **Continuous integration** — use lint, tests and build checks, with deployment workflows where applicable.
+
+AI is a development tool; technical decisions, review and validation remain my responsibility.
+
+## 🎯 Current focus
+
+- Strengthening software architecture and back-end engineering fundamentals.
+- Deepening cloud infrastructure, CI/CD and reliable software delivery practices.
+- Building maintainable workflow automations and improving AI-assisted development practices.
+
+## 🐍 Contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanntavares/yanntavares/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanntavares/yanntavares/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/yanntavares/yanntavares/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/yanntavares/yanntavares/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+---
+
+<div align="center">
+
+## 🤝 Let's connect
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yann-tavares/) to discuss software engineering, projects and internship opportunities.
+
+</div>

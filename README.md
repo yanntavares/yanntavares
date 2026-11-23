@@ -56,7 +56,6 @@ CI/CD · WSL
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
 ![Playwright](https://img.shields.io/badge/Playwright-E2E_Testing-2EAD33?style=flat-square)
-![Unit testing](https://img.shields.io/badge/Unit_Testing-334155?style=flat-square)
 
 Workflow automation · Context engineering · Code review · Linting
 

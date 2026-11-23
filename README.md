@@ -42,14 +42,14 @@ I'm currently open to software engineering internship opportunities, particularl
 shadcn/ui · Responsive interfaces · REST API integration
 
 ### Back-end & data
-[![Back-end: Node.js, NestJS, Prisma, PostgreSQL, Firebase](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,firebase&theme=dark)](https://skillicons.dev)
+[![Back-end: Node.js, NestJS, Prisma, PostgreSQL](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,firebase&theme=dark)](https://skillicons.dev)
 
-REST APIs · SQL · Firestore · Swagger/OpenAPI
+REST APIs · SQL · Swagger/OpenAPI
 
 ### DevOps & cloud
-[![DevOps: Git, GitHub, GitHub Actions, Docker, Linux, Google Cloud](https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,gcp&theme=dark)](https://skillicons.dev)
+[![DevOps: Git, GitHub, GitHub Actions, Docker, Linux](https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,gcp&theme=dark)](https://skillicons.dev)
 
-CI/CD · WSL · Firebase Hosting and Cloud Functions
+CI/CD · WSL
 
 ### Automation, AI & quality
 
@@ -58,7 +58,7 @@ CI/CD · WSL · Firebase Hosting and Cloud Functions
 ![Playwright](https://img.shields.io/badge/Playwright-E2E_Testing-2EAD33?style=flat-square)
 ![Unit testing](https://img.shields.io/badge/Unit_Testing-334155?style=flat-square)
 
-Workflow automation · Context engineering · Vertex AI integrations · Code review · Linting
+Workflow automation · Context engineering · Code review · Linting
 
 ### Design & collaboration
 [![Design tools: Figma and Notion](https://skillicons.dev/icons?i=figma,notion&theme=dark)](https://skillicons.dev)
@@ -87,7 +87,7 @@ AI is a development tool; technical decisions, review and validation remain my r
 ## 🎯 Current focus
 
 - Strengthening software architecture and back-end engineering fundamentals.
-- Deepening cloud infrastructure, CI/CD and reliable software delivery practices.
+- CI/CD and reliable software delivery practices.
 - Building maintainable workflow automations and improving AI-assisted development practices.
 
 ## 🐍 Contribution graph
